@@ -1,0 +1,13 @@
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\Kinect Image Recorder\obj\Debug\Kinect Image Recorder.csproj.GenerateResource.Cache
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\Kinect Image Recorder\bin\Debug\Kinect Image Recorder.exe.config
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\Kinect Image Recorder\obj\Debug\Kinect_Image_Recorder.ChooseNameMessage.resources
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\Kinect Image Recorder\obj\Debug\Kinect_Image_Recorder.Form1.resources
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\Kinect Image Recorder\bin\Debug\Kinect Image Recorder.exe
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\Kinect Image Recorder\bin\Debug\Kinect Image Recorder.pdb
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\Kinect Image Recorder\bin\Debug\Microsoft.Kinect.dll
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\Kinect Image Recorder\bin\Debug\Microsoft.Kinect.xml
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\Kinect Image Recorder\obj\Debug\Kinect Image Recorder.exe
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\Kinect Image Recorder\obj\Debug\Kinect Image Recorder.pdb
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\Kinect Image Recorder\obj\Debug\Kinect_Image_Recorder.Properties.Resources.resources
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\Kinect Image Recorder\obj\Debug\Kinect Image Recorder.csprojResolveAssemblyReference.cache
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\Kinect Image Recorder\bin\Debug\AForge.Video.dll

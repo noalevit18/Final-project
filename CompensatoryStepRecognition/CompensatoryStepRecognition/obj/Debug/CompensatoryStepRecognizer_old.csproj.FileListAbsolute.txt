@@ -1,0 +1,12 @@
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition\bin\Debug\CompensatoryStepRecognition.exe.config
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition\bin\Debug\CompensatoryStepRecognition.exe
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition\bin\Debug\CompensatoryStepRecognition.pdb
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition\bin\Debug\Microsoft.Kinect.dll
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition\bin\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition\bin\Debug\Microsoft.Kinect.xml
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition\obj\Debug\CompensatoryStepRecognition.ChooseNameMessage.resources
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition\obj\Debug\CompensatoryStepRecognition.Form1.resources
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition\obj\Debug\CompensatoryStepRecognition.Properties.Resources.resources
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition\obj\Debug\CompensatoryStepRecognizer_old.csproj.GenerateResource.Cache
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition\obj\Debug\CompensatoryStepRecognition.exe
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition\obj\Debug\CompensatoryStepRecognition.pdb

@@ -1,0 +1,16 @@
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\bin\x86\Debug\CompensatoryStepRecognition_WPF.exe.config
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\bin\x86\Debug\CompensatoryStepRecognition_WPF.exe
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\bin\x86\Debug\CompensatoryStepRecognition_WPF.pdb
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\bin\x86\Debug\Microsoft.Kinect.VisualGestureBuilder.dll
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\obj\x86\Debug\MainWindow.baml
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\obj\x86\Debug\MainWindow.g.cs
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\obj\x86\Debug\App.g.cs
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\obj\x86\Debug\CompensatoryStepRecognition_WPF_MarkupCompile.cache
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\obj\x86\Debug\CompensatoryStepRecognition_WPF.g.resources
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\obj\x86\Debug\CompensatoryStepRecognition_WPF.Properties.Resources.resources
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\obj\x86\Debug\CompensatoryStepRecognition_WPF.csproj.GenerateResource.Cache
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\obj\x86\Debug\CompensatoryStepRecognition_WPF.exe
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\obj\x86\Debug\CompensatoryStepRecognition_WPF.pdb
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\obj\x86\Debug\CompensatoryStepRecognition_WPF_MarkupCompile.lref
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\obj\x86\Debug\ChooseNameMessageBox.baml
+N:\לימודים\'סמסטר ז\פרויקט גמר\CompensatoryStepRecognition\CompensatoryStepRecognition_WPF\obj\x86\Debug\ChooseNameMessageBox.g.cs
